@@ -1,0 +1,15 @@
+{
+  "short_name": "monko2k.xyz",
+  "name": "monko2k.xyz",
+  "icons":[ 
+    {
+      "src": "logo.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
